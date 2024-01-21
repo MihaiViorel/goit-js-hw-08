@@ -1,10 +1,11 @@
+// Descris în documentație
+import SimpleLightbox from 'simplelightbox';
+// Import suplimentar de stil
+import "simplelightbox/dist/simple-lightbox.min.css";
 // Add imports above this line
 import { galleryItems } from './gallery-items';
 // Change code below this line
-// Descris în documentație
-import SimpleLightbox from "simplelightbox";
-// Import suplimentar de stil
-import "simplelightbox/dist/simple-lightbox.min.css";
+
 
 const galleryContainer = document.querySelector(".gallery");
 const createGallaryItems = galleryItems
