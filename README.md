@@ -1,5 +1,5 @@
 <h4> npm commands</h5>
-<p>Use <span style="color: green;">ctrl C</span> to stop the <span style="color: yellow;">npm start</span> command</p>
+<p>Use <i>ctrl C</i> to stop the <i>npm start</i> command</p>
 <ul>
   <li>git status</li>
   <li>cd parcel</li>
